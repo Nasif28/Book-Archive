@@ -1,0 +1,39 @@
+body {
+    position: relative;
+    min-height: 90vh;
+    background-color: rgb(255, 245, 245);
+}
+
+span {
+    color: blue;
+}
+
+img {
+    max-height: 300px;
+    width: auto;
+}
+
+.card-title {
+    color: red;
+}
+
+.total {
+    text-align: center;
+}
+
+.result {
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+
+footer {
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.name {
+    color: red;
+}
